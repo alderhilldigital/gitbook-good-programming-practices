@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Commenting
+* [Commenting](commenting.md)
 * Formatting
 * Naming Conventions
 * Reusability
