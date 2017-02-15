@@ -12,7 +12,7 @@ Comments have to common forms, inline and block. Inline comments usually have a 
 
 **Example**
 
-`// This function does something    
+`// This function does something      
 function does_stuff()`
 
 or
@@ -25,10 +25,10 @@ The other type of comments are block comments. Block comments also have a initia
 
 **Example**
 
-`/*    
-We can write a comment.    
-It can have multiple lines.    
-Then it is closed at the end    
+`/*      
+We can write a comment.      
+It can have multiple lines.      
+Then it is closed at the end      
 */`
 
 In this example the comment is initiated with a forward slash followed by an asterisk '/\*'. The comment is then terminated with a asterisk followed by a forward slash '\*/'.
@@ -38,4 +38,17 @@ In this example the comment is initiated with a forward slash followed by an ast
 The main benefit of commenting is to help people understand what the code is doing. Some programmers believe that comments should not explain how the code works but should explain what the code does and why it does it. Comments that explain how the code works could be superfluous or could be compensating for code that is overly complex or badly implemented. Therefore comments should be as brief and concise as possible to quickly facilitate understanding.
 
 Another benefit of commenting is the automatic generation of documentation. There are many tools now available that parse files in an application and extract the comments. The comments are then collated and formatted into documentation for the application. Since many projects require documentation to be provided, commenting and generating the documentation automatically can be an effective and efficient way of doing this.
+
+One use of comments is when debugging code. If a particular piece of code has been implemented and has caused a nondescript error then comments are sometimes used to remove individual sections or lines of code to help isolate the error.
+
+**Example**
+
+`var itemone = 'hello'  
+var itemtwo = 'world'  
+if(itemone == 'hello') { print 'success' }  
+// if(itemthree == 'world') { print 'more success' }`
+
+In this example the fourth line is commented as it was causing an error because the 'itemthree' variable doesn't exist.
+
+
 
