@@ -10,5 +10,13 @@ Formatting is the use of spacing and new lines to layout code for aesthetic and 
 
 `<div><ul><li><a href='#>Hello</a></li></ul></div>`
 
-`
+vs.
+
+`<div>  
+     <ul>  
+         <li>  
+             <a href='#>Hello</a>  
+         </li>  
+     </ul>  
+ </div>`
 
