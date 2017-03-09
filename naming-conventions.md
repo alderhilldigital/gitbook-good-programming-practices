@@ -4,7 +4,7 @@ Naming conventions are very important when programming. Some programming languag
 
 # What are naming conventions
 
-
+Programming languages have various elements that require being named for when they need to be referenced. It is best to maintained a standardised method when naming an element. This is known as a naming conventions.
 
 
 
