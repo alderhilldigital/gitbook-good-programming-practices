@@ -6,21 +6,19 @@ Naming conventions are very important when programming. Some programming languag
 
 Programming languages have various elements that require being named for when they need to be referenced. It is best to maintained a standardised method when naming an element. These are known as a naming conventions.
 
-
-
 ## Types of Naming Convention
 
 There are some common industry naming conventions that are adopted in different ways across most programming languages.
 
-Upper case - All letters in upper case. Commonly used for keywords and constants e.g. SELECT
+Upper case - All letters in upper case. Commonly used for keywords and constants e.g. UPPERCASE
 
-Lower case - All letters in lower case. Commonly used for variable types e.g. integer
+Lower case - All letters in lower case. Commonly used for variable types e.g. lowercase
 
-Snake case - All lower case letters with words separated by an underscore. Adopted by many web languages. e.g. new\_function
+Snake case - All lower case letters with words separated by an underscore. Adopted by many web languages. e.g. snake\_case
 
-Camel case - 
+Kebab case - All lowercase letters with words separated by a hyphen e.g. kebab-case
 
-Kebab case
+Camel case - All lowercase letters except for any new words not including the first word e.g. camelCase
 
 
 
