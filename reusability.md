@@ -8,12 +8,10 @@ Most programming languages inherently have code reusability built in. The whole 
 
 **Example**
 
-`welcome(name){  
-    print "Hello #{name}. How are you today? The current time is #{Time.now()}."  
-}   
+`welcome(name){    
+    print "Hello #{name}. How are you today? The current time is #{Time.now()}."    
+}     
 welcome('John')`
 
 In this example the welcome message can be reused to welcome different people without having to retype the whole message each time.
-
-
 
