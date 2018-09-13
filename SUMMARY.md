@@ -1,10 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [Commenting](commenting.md)
-* [Formatting](formatting.md)
-* [Naming Conventions](naming-conventions.md)
-* [Reusability](reusability.md)
-* [Simplicity](simplicity.md)
-* [Testing](testing.md)
+* [Initial page](README.md)
 
